@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @rickymwethera
-- 👀 I’m interested in web development in python
-- 🌱 I’m currently learning artificial intelligence
+
 -  I’m looking to collaborate on anything that will help me learn
 - 📫 How to reach me via email: rickymwethera@gmail.com      
 
