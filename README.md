@@ -1,6 +1,6 @@
 
--  I’m looking to collaborate on anything that will help me learn
-- 📫 How to reach me via email: rickymwethera@gmail.com      
+-  I've seen enough of frontend development, currently exploring cybersecurity and starting with CompTIA 
+- 📫 reach me via email: rickymwethera@gmail.com      
 
 <!---
 rickymwethera/rickymwethera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
