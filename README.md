@@ -1,3 +1,4 @@
+Software Engineer & builder from Kenya 🇰🇪 | React • TypeScript • JavaScript • Node.js • Java | Building SaaS, fintech & AI projects | Exploring backend engineering, cloud, product development & startups 🚀
 
 - 📫 reach me via email: rickymwethera@gmail.com      
 
