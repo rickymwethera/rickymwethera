@@ -1,5 +1,4 @@
 
--  I've seen enough of frontend development, currently exploring cybersecurity and starting with CompTIA 
 - 📫 reach me via email: rickymwethera@gmail.com      
 
 <!---
