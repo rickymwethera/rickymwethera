@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Software+Engineer+from+Kenya;Building+SaaS+and+fintech+products;Shipping+AI-powered+apps;Exploring+backend+and+cloud" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Software+Engineer+based+in+Kenya;Building+SaaS+and+fintech+products;Shipping+AI-powered+apps;Exploring+backend+and+cloud" alt="Typing intro" />
 </p>
 
 <p align="center">
